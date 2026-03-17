@@ -75,7 +75,9 @@ JWT_SECRET=your_secret
 
 ## 🌐 Live Demo
 
-Coming Soon 🚀
+https://sharingsystem-himanshu.vercel.app/
+
+Note: Backend is hosted on Render (free tier), so initial API requests may take ~30 seconds due to cold start.
 
 ---
 
